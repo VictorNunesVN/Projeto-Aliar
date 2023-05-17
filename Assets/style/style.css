@@ -1,0 +1,9 @@
+/*Navbar*/
+.menu__site {
+    display: flex;
+    margin-left: 10rem ;
+}
+
+.menu__site-item {
+    margin: 0px 6rem 0px 0px 
+}
