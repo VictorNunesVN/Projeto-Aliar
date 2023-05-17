@@ -1,3 +1,7 @@
+:root{
+    --fonte-texto: 'Montserrat', sans-serif;
+}
+
 /*Navbar*/
 .menu__site {
     display: flex;
@@ -6,4 +10,22 @@
 
 .menu__site-item {
     margin: 0px 6rem 0px 0px 
+}
+
+/*figure*/
+
+/*body*/
+
+body{
+    /*obs: provisório*/
+    background-color: burlywood;
+}
+.conteiner__texto{
+    margin: 0rem 6rem 0rem 6rem;
+}
+
+.conteiner__texto-paragrafo{
+    font-family: var(--fonte-texto);
+    font-size: larger;
+    line-height: 2rem;
 }

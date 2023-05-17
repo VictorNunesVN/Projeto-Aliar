@@ -1,5 +1,12 @@
 Texto sobre o que é a Aliar:
-Bem-vindo ao "Aliar" - o seu guia online para harmonização de comidas e vinhos! No Aliar, nós acreditamos que a combinação perfeita de comida e vinho pode elevar sua experiência gastronômica a outro nível.
+
+TEXTO DA PÁGINA DE VERIFICAÇÃO DE IDADE: Bem-vindo ao "Aliar" - o seu guia online para harmonização de comidas e vinhos! 
+-//-
+Na Aliar, nós acreditamos que a combinação perfeita de comida e vinho pode elevar sua experiência gastronômica a outro nível.
+-//-
+
+TEXTO INICIAL 2: Bem-vindo ao Aliar!
+Descubra a arte da harmonização de comidas e vinhos e eleve suas experiências gastronômicas a novas alturas. Nós, do Aliar, estamos aqui para guiá-lo nessa jornada fascinante, oferecendo dicas especializadas, receitas deliciosas e recomendações cuidadosamente selecionadas. Deixe-nos ajudá-lo a desvendar os segredos de combinações perfeitas, onde cada mordida é aprimorada por um gole sublime. Explore nosso mundo de sabores e aromas, compartilhe suas experiências e torne-se um mestre na arte da harmonização. Seja bem-vindo ao Aliar, onde a comida e o vinho se encontram em perfeita sintonia.
 
 Em nosso site, você encontrará uma variedade de recursos e informações úteis para ajudá-lo a harmonizar diferentes pratos e vinhos de forma simples e acessível. Nossa equipe de especialistas apaixonados por culinária e enologia está constantemente trabalhando para trazer as melhores dicas e sugestões para você.
 
@@ -13,5 +20,7 @@ Se você está procurando algo mais específico, nosso site possui uma funcional
 
 Não importa se você é um iniciante curioso ou um amante experiente de comida e vinho, o "Aliar" está aqui para ajudá-lo a descobrir novas combinações, ampliar seus horizontes gastronômicos e desfrutar de experiências culinárias verdadeiramente memoráveis.
 
-Experimente o "Aliar" hoje mesmo e deixe-nos guiá-lo pelo mundo fascinante da harmonização de comidas e vinhos. Bon appétit e cheers!
+-//-
+POSSÍVEL TEXTO DE DESPEDIDA :Experimente o "Aliar" hoje mesmo e deixe-nos guiá-lo pelo mundo fascinante da harmonização de comidas e vinhos. Bon appétit e cheers!
+-//-
 
