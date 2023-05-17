@@ -1,0 +1,196 @@
+/*index e cabeçalho e rodapé */
+@import url('https://fonts.googleapis.com/css2?family=Piazzolla:wght@100&display=swap');
+body{
+    background-color: #e6e6e6;
+    font-family: 'Piazzolla', serif;
+    font-size: 21px;
+    color: black;
+    margin-top: 1px;
+    margin-bottom: -20px;
+
+}
+
+header{
+    background-color: rgb(79, 79, 79);
+    margin-top: -21px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: 2px;
+    border-bottom: 2px solid black    
+}
+
+p{
+    margin: 15px;
+}
+
+figure img#logo{
+    margin-left: 360px;
+    border: 1px solid #e6e6e6; /*sob observação */
+    margin-top: 15px;
+}
+
+nav#menu{
+    display: block;
+    margin-bottom: -40px; 
+    margin-top: -10px;
+    border-top: 2px solid black;
+}
+
+nav#menu a{
+    font-size: 22px;
+    text-decoration: none;
+    color: black;
+    border-top: none;
+    padding: 10px;    
+}
+
+nav#menu ul{
+    text-align: center;
+    text-transform: uppercase;
+    top:-38px;
+    background-color: #999999;
+    margin-top: 1px;
+    margin-left: -8px;
+    border-bottom: 2px solid #4d4d4d;
+}
+
+nav#menu li{
+    display: inline-block;
+    padding: 20px;
+    margin: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.harm .img {
+    border: 3px solid   #e6e6e6;
+    box-shadow: 2px 2px 7px  #999999;
+}
+
+.botao{
+    position: relative;
+    font-family: 'Piazzolla', serif;
+    font-weight: bolder;
+    font-size: 18px;
+    background-color: #4d4d4d;
+    color: #e6e6e6;;
+    text-decoration: none;
+    margin-left: auto;
+    margin-left: auto;
+    width: 316px;
+    height: 30px;
+    top:10px ;
+}
+
+.compra{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table#compra{
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+}
+
+table#compra td{
+    margin: 10px;
+    padding: 70px;
+    text-transform: uppercase;
+    
+}
+
+footer{
+    border-top: 2px solid black;
+    font-size: 18px;
+    height: 200px;
+    color: black;
+    background-color: #8c8c8c;
+    margin-left: -8px;
+    margin-right:-4px;
+    padding-bottom: 26px ;
+    border-bottom: 3px solid black;
+    margin-bottom: -500px;
+}
+
+table#rodape{
+    margin-top: -20px;
+}
+
+table#rodape td{
+    position: relative;
+    top: 15px;
+    left: 18px;
+    padding: 20px;
+    font-weight: bolder;
+}
+
+table#rodape a{
+    text-decoration: none;
+    color: black;
+}
+
+ul#pgto {
+    position: relative;
+    margin-left: 700px;
+    margin-top: -150px;
+}
+ul#midia{
+    position: relative;
+    margin-right: 500px;
+    margin-left: 300px;
+    top: -8px;
+}
+ul#midia li{
+    list-style: none;
+}
+ul#midia a{
+    text-decoration: none;
+    color: black;
+}
+ul#pgto li{
+    display: inline-block;
+}
+
+ul#apoio{
+    margin-top: -150px;
+
+}
+ul#apoio a{
+    text-decoration: none;
+    color: black;
+}
+
+.tit{
+    font-weight: bolder;
+}
+
+/*faleConosco*/
+form#form{
+    margin-left: 172px;
+    margin-right: 172px;
+    margin-top: 10px;
+    padding: 180px;
+    padding-top: 40px;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+.msg_erro{
+    font-family: 'Piazzolla', serif;
+    font-size: 15px;
+    color: red;
+    font-weight: bolder;
+}
+
+/*sobre*/
+img#eu{
+    position:absolute;
+    left: 40px;
+    border: 3px solid   #e6e6e6;
+    box-shadow: 2px 2px 7px  #999999;
+    
+}
+section#sobre{
+    margin-left: 200px;
+    margin-right: 100px;
+
+}

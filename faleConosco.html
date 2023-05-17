@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+    <link rel="shortcut icon" href="imagens/icone.ico" type="image/x-icon">
+    <title>Fale Conosco</title>
+</head>
+<header>
+    <a name="Topo"></a>
+    <figure>
+    <img id= "logo" src="imagens/logo retangulo.jpg">
+    </figure>
+    <nav id="menu">
+        <ul>
+            <li class="item"><a href="index.html">Inicio</a></li>
+            <li class="item"><a href="sobre.html">Sobre</a></li>
+            <li class="item"><a class="tit">Fale Conosco</a></li>
+        </ul>
+    </nav>
+<!--final da área de logo e menu-->
+</header>
+<body>
+  <br>
+  <h1>Contatos</h1>
+  <p>Você poderá entrar em contado com a Aliar através do nosso email <strong>contato_aliar@aliar.com</strong><br>
+     Você também poderá preencher o formulário abaixo que a nossa equipe entrará em contato o mais rápido possível<br>
+    Coloque o máximo de detalhes na sua mensagem pois isto facilitará que a nossa equipe o ajude da melhor forma</p>
+    <br>
+    <form action="cadastro.php" method="POST" id= "form">
+        <label class="tit_form" for="nome">Nome</label><br>
+        <input class="camp"  id="nome" name="nome" type="text" size="60" placeholder="Nome completo" required><br>
+        <div id="erro_nome" class="msg_erro"></div>
+
+        <label class="tit_form" for="email">E-mail</label><br>
+        <input class="camp" id="email" name="email" type="email" size="60" placeholder="E-mail" required><br>
+        <div id="erro_email" class="msg_erro"></div>
+
+        <label class="tit_form" for="cidade">Cidade</label><br>
+        <input class="camp" id="cidade" name="cidade" type="text" size="60" placeholder="Cidade onde mora" required><br>
+        <div id="erro_cidade" class="msg_erro"></div>
+
+        <label class="tit_form" for="tel">Telefone</label><br>
+        <input class="camp" id="tel"type="tel" name="tel" size="20" placeholder="Telefone, celular, whatsapp" required><br>
+        <div id="erro_tel" class="msg_erro"></div>
+
+        <label class="camp"class="tit_form" for="msg">Mensagem</label><br>
+        <textarea id="msg" name="msg" cols="50" rows="20" placeholder="Sua mensagem aqui" required></textarea><br>
+        <div id="erro_msg" class="msg_erro"></div>
+        <input  class = 'botao' type="submit" onclick= 'validar()' value="Enviar">
+     </form>
+     <footer>
+     <footer>
+        <table id="rodape">
+            <tr>
+                <td><a href="#Topo">Topo</a></td>
+                <td><a href="index.html">Inicio</a></td>
+                <td><a  href="sobre.html">Sobre</a></td>
+            </tr>
+        </table>
+        <ul id="midia">
+            <strong>Midia:</strong>
+            <li><a href="https://www.facebook.com/victor.nunes.3745" target="_blank">Facebook</a></li>
+            <li><a href="https://www.instagram.com/victorvn1/" target="_blank">Instagran</a></li>
+        </ul>
+        <ul id="pgto">
+            <strong>Formas de pagamento</strong><br>
+            <img src="imagens/teste.png">
+            <img src="imagens/logo-elo.png">
+            <img src="imagens/logo-visa.png">
+        </ul>
+        <ul id="apoio">
+            <strong>Apoio</strong><br>
+            <a href="https://www.academiageek.com.br/" target="_blank">Academia Geek</a><br>
+            <a href="https://www.youtube.com/channel/UCo_tPYREuzfDdzvWkQhWYAg" target="_blank">Canal Retrociência</a><br>
+            <a href="https://www.evino.com.br/" target="_blank">Evino</a><br>
+        </ul>
+    </footer>
+    <script src="validacao.js"></script>
+</body>
+</html>
